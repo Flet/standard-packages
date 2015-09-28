@@ -22,7 +22,7 @@ To update the data in `standard.json` run:
 npm run fetch
 npm start
 ```
-
+:warning:**Warning:** `npm run fetch` will download and save a ~300MB file called `alldata.json`. 
 ## License
 
 MIT. Copyright (c) [Feross Aboukhadijeh](http://feross.org).
